@@ -1,0 +1,5 @@
+Command to start a simple python server:  python -m SimpleHTTPServer
+Go to:  http://127.0.0.1:8000/
+
+Or: python -m SimpleHTTPServer 8080
+http://127.0.0.1:8080
